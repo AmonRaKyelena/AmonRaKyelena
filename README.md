@@ -1,4 +1,4 @@
-### Well met 👋 
+### Well met 👋  
 ### My name is Aleksey Nedovesov
 - 👀 I'm interested in C/C++ programming languages
 - 🌱 I'm currently studying at Ecole 42 university
